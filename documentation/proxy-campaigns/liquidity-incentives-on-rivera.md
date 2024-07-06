@@ -14,8 +14,6 @@ layout:
 
 # Liquidity Incentives on Rivera
 
-<figure><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb0988fb-10f7-4bde-7f7d-de793d9a8700/rectcontain3" alt=""><figcaption></figcaption></figure>
-
 {% hint style="success" %}
 Bringing this back up for our community! We teamed up with [@asinha.eth](https://warpcast.com/asinha.eth) and team Rivera to make adding liquidity to [/proxyswap](https://warpcast.com/\~/channel/proxyswap) pairs easy and DFY through automated strategies. Access the 1st PROXY-WDEGEN-Y Vault here:
 {% endhint %}
@@ -40,3 +38,5 @@ There are 2 active vaults:
 
 1. $PROXY/$WDEGEN
 2. $DEGEN/$WETH
+
+<figure><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb0988fb-10f7-4bde-7f7d-de793d9a8700/rectcontain3" alt=""><figcaption></figcaption></figure>
