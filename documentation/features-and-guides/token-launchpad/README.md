@@ -24,6 +24,8 @@ Create your token via Proxyswap's Launchpad with the benefit of several features
 
 We've developed this mechanism to help projects build trust by ensuring liquidity is available for trading while still rewarding liquidity providers for their contributions.
 
+Here are the main features
+
 * [launch.md](launch.md "mention")
 * [airdrops.md](airdrops.md "mention")
 * [claim.md](claim.md "mention")
